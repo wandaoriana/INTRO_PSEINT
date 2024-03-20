@@ -9,7 +9,7 @@ Proceso Ciclos
 		SiNo
 			Escribir "El anio no es bisiesto ";
 		FinSi
-		Escribir "Para seguir adelante digite la opcion 1: ";
+		Escribir "Para seguir adelante digite la opcion 1: prueba ";
 		Leer Opcion;
 	Hasta Que opcion <> 1 
 FinProceso
